@@ -1,0 +1,14 @@
+{
+  "name": "08.user_input",
+  "version": "1.0.0",
+  "description": "",
+  "main": "59.UI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akasha",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
